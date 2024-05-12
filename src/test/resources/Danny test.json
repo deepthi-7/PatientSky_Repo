@@ -1,0 +1,502 @@
+{ 
+  "appointments": [
+    {
+      "id": "1847c677-1be8-4e44-a84b-edd6751e8302",
+      "patient_id": "1bee2bf0-9751-11e5-bc1b-c8e0eb18c1e9",
+      "calendar_id": "48cadf26-975e-11e5-b9c2-c8e0eb18c1e9",
+      "start": "2019-04-23T12:15:00",
+      "end": "2019-04-23T12:30:00",
+      "patient_comment": null,
+      "note": null,
+      "time_slot_type_id": "452935de-975e-11e5-ae1a-c8e0eb18c1e9",
+      "type_id": null,
+      "state": 0,
+      "out_of_office_location": "",
+      "out_of_office": false,
+      "completed": true,
+      "is_scheduled": false
+    },
+    {
+      "id": "bdad6fcd-d9d2-4418-aceb-ee3180f04450",
+      "patient_id": "1bee2bf0-9751-11e5-bc1b-c8e0eb18c1e9",
+      "calendar_id": "48cadf26-975e-11e5-b9c2-c8e0eb18c1e9",
+      "start": "2019-04-23T18:30:00",
+      "end": "2019-04-23T18:45:00",
+      "patient_comment": null,
+      "note": null,
+      "time_slot_type_id": "452935de-975e-11e5-ae1a-c8e0eb18c1e9",
+      "type_id": null,
+      "state": 0,
+      "out_of_office_location": "",
+      "out_of_office": false,
+      "completed": true,
+      "is_scheduled": false
+    },
+    {
+      "id": "76f0b72c-6127-4efa-a783-56cdc71caa45",
+      "patient_id": "1bc93318-9751-11e5-9d96-c8e0eb18c1e9",
+      "calendar_id": "48cadf26-975e-11e5-b9c2-c8e0eb18c1e9",
+      "start": "2019-04-23T19:00:00",
+      "end": "2019-04-23T19:15:00",
+      "patient_comment": null,
+      "note": null,
+      "time_slot_type_id": "452935de-975e-11e5-ae1a-c8e0eb18c1e9",
+      "type_id": null,
+      "state": 4,
+      "out_of_office_location": "",
+      "out_of_office": false,
+      "completed": true,
+      "is_scheduled": false
+    },
+    {
+      "id": "5f656045-c1a4-458f-89bf-62f2f04c2514",
+      "patient_id": "1c718efa-9751-11e5-83ca-c8e0eb18c1e9",
+      "calendar_id": "48cadf26-975e-11e5-b9c2-c8e0eb18c1e9",
+      "start": "2019-04-24T09:45:00",
+      "end": "2019-04-24T10:15:00",
+      "patient_comment": null,
+      "note": null,
+      "time_slot_type_id": "4529821e-975e-11e5-bbaf-c8e0eb18c1e9",
+      "type_id": null,
+      "state": 4,
+      "out_of_office_location": "",
+      "out_of_office": false,
+      "completed": true,
+      "is_scheduled": false
+    },
+    {
+      "id": "158379e7-235a-4b0b-9878-9c0f52ca2b6c",
+      "patient_id": "1bdb8194-9751-11e5-a2e7-c8e0eb18c1e9",
+      "calendar_id": "48cadf26-975e-11e5-b9c2-c8e0eb18c1e9",
+      "start": "2019-04-24T10:45:00",
+      "end": "2019-04-24T11:15:00",
+      "patient_comment": null,
+      "note": null,
+      "time_slot_type_id": "4529821e-975e-11e5-bbaf-c8e0eb18c1e9",
+      "type_id": null,
+      "state": 0,
+      "out_of_office_location": "",
+      "out_of_office": false,
+      "completed": true,
+      "is_scheduled": false
+    },
+  
+    {
+      "id": "cd0c1611-4dc9-4b07-bcde-0809bd036a65",
+      "patient_id": "1bc93318-9751-11e5-9d96-c8e0eb18c1e9",
+      "calendar_id": "48cadf26-975e-11e5-b9c2-c8e0eb18c1e9",
+      "start": "2019-04-27T18:00:00",
+      "end": "2019-04-27T18:15:00",
+      "patient_comment": null,
+      "note": null,
+      "time_slot_type_id": "452935de-975e-11e5-ae1a-c8e0eb18c1e9",
+      "type_id": null,
+      "state": 0,
+      "out_of_office_location": "",
+      "out_of_office": false,
+      "completed": true,
+      "is_scheduled": false
+    },
+    {
+      "id": "4617136e-36b4-489b-8f92-cab168a94089",
+      "patient_id": "1c718efa-9751-11e5-83ca-c8e0eb18c1e9",
+      "calendar_id": "48cadf26-975e-11e5-b9c2-c8e0eb18c1e9",
+      "start": "2019-04-27T19:30:00",
+      "end": "2019-04-27T19:45:00",
+      "patient_comment": null,
+      "note": null,
+      "time_slot_type_id": "452935de-975e-11e5-ae1a-c8e0eb18c1e9",
+      "type_id": null,
+      "state": 0,
+      "out_of_office_location": "",
+      "out_of_office": false,
+      "completed": true,
+      "is_scheduled": false
+    }
+  ],
+  "timeslots": [
+    {
+      "id": "af87de36-3690-4caa-a100-4d28b05e3d94",
+      "calendar_id": "48cadf26-975e-11e5-b9c2-c8e0eb18c1e9",
+      "type_id": "4529821e-975e-11e5-bbaf-c8e0eb18c1e9",
+      "start": "2019-04-23T08:00:00",
+      "end": "2019-04-23T08:30:00",
+      "public_bookable": true,
+      "out_of_office": false
+    },
+    {
+      "id": "4955e65a-3b3b-475f-94c4-21bd5a110d48",
+      "calendar_id": "48cadf26-975e-11e5-b9c2-c8e0eb18c1e9",
+      "type_id": "4529821e-975e-11e5-bbaf-c8e0eb18c1e9",
+      "start": "2019-04-23T08:30:00",
+      "end": "2019-04-23T09:00:00",
+      "public_bookable": true,
+      "out_of_office": false
+    },
+    {
+      "id": "957a1cf7-8b95-432f-93dd-3c3ca55c9e50",
+      "calendar_id": "48cadf26-975e-11e5-b9c2-c8e0eb18c1e9",
+      "type_id": "4529821e-975e-11e5-bbaf-c8e0eb18c1e9",
+      "start": "2019-04-23T09:00:00",
+      "end": "2019-04-23T09:30:00",
+      "public_bookable": true,
+      "out_of_office": false
+    },
+    {
+      "id": "518654f4-bd4e-485f-a04e-4881268195a0",
+      "calendar_id": "48cadf26-975e-11e5-b9c2-c8e0eb18c1e9",
+      "type_id": "4529821e-975e-11e5-bbaf-c8e0eb18c1e9",
+      "start": "2019-04-23T09:30:00",
+      "end": "2019-04-23T10:00:00",
+      "public_bookable": true,
+      "out_of_office": false
+    },
+    {
+      "id": "6747a2b5-5eea-4fd6-ac85-0833011a3d90",
+      "calendar_id": "48cadf26-975e-11e5-b9c2-c8e0eb18c1e9",
+      "type_id": "4529821e-975e-11e5-bbaf-c8e0eb18c1e9",
+      "start": "2019-04-23T10:00:00",
+      "end": "2019-04-23T10:30:00",
+      "public_bookable": true,
+      "out_of_office": false
+    },
+    {
+      "id": "31ce453d-3987-4549-b434-8e6c255ea417",
+      "calendar_id": "48cadf26-975e-11e5-b9c2-c8e0eb18c1e9",
+      "type_id": "452935de-975e-11e5-ae1a-c8e0eb18c1e9",
+      "start": "2019-04-23T10:30:00",
+      "end": "2019-04-23T10:45:00",
+      "public_bookable": true,
+      "out_of_office": false
+    },
+    {
+      "id": "0c69c099-2592-417e-af94-14fec6f60b69",
+      "calendar_id": "48cadf26-975e-11e5-b9c2-c8e0eb18c1e9",
+      "type_id": "452935de-975e-11e5-ae1a-c8e0eb18c1e9",
+      "start": "2019-04-23T10:45:00",
+      "end": "2019-04-23T11:00:00",
+      "public_bookable": true,
+      "out_of_office": false
+    },
+    {
+      "id": "de5b9644-d0ec-4f7c-a7cb-7f989f75e34e",
+      "calendar_id": "48cadf26-975e-11e5-b9c2-c8e0eb18c1e9",
+      "type_id": "452935de-975e-11e5-ae1a-c8e0eb18c1e9",
+      "start": "2019-04-23T11:00:00",
+      "end": "2019-04-23T11:15:00",
+      "public_bookable": true,
+      "out_of_office": false
+    },
+    {
+      "id": "a5a54fcf-06b7-45af-92a3-d1fbcd4e6e4d",
+      "calendar_id": "48cadf26-975e-11e5-b9c2-c8e0eb18c1e9",
+      "type_id": "452935de-975e-11e5-ae1a-c8e0eb18c1e9",
+      "start": "2019-04-23T11:15:00",
+      "end": "2019-04-23T11:30:00",
+      "public_bookable": true,
+      "out_of_office": false
+    },
+    {
+      "id": "8d7dd72d-0a65-424b-8af1-deb4cfb113ea",
+      "calendar_id": "48cadf26-975e-11e5-b9c2-c8e0eb18c1e9",
+      "type_id": "452935de-975e-11e5-ae1a-c8e0eb18c1e9",
+      "start": "2019-04-27T10:30:00",
+      "end": "2019-04-27T10:45:00",
+      "public_bookable": true,
+      "out_of_office": false
+    },
+    {
+      "id": "c91f509e-a332-4068-803a-bf297c5cce73",
+      "calendar_id": "48cadf26-975e-11e5-b9c2-c8e0eb18c1e9",
+      "type_id": "452935de-975e-11e5-ae1a-c8e0eb18c1e9",
+      "start": "2019-04-27T10:45:00",
+      "end": "2019-04-27T11:00:00",
+      "public_bookable": true,
+      "out_of_office": false
+    },
+    {
+      "id": "d831ac30-271d-4a82-bb99-4e1330149d3f",
+      "calendar_id": "48cadf26-975e-11e5-b9c2-c8e0eb18c1e9",
+      "type_id": "452935de-975e-11e5-ae1a-c8e0eb18c1e9",
+      "start": "2019-04-27T11:00:00",
+      "end": "2019-04-27T11:15:00",
+      "public_bookable": true,
+      "out_of_office": false
+    },
+    {
+      "id": "f3d9b8e5-7b88-45bf-91ff-c774d8a1902d",
+      "calendar_id": "48cadf26-975e-11e5-b9c2-c8e0eb18c1e9",
+      "type_id": "452935de-975e-11e5-ae1a-c8e0eb18c1e9",
+      "start": "2019-04-27T11:15:00",
+      "end": "2019-04-27T11:30:00",
+      "public_bookable": true,
+      "out_of_office": false
+    },
+    {
+      "id": "a5d470e5-27d6-4b8c-9a97-907641f36222",
+      "calendar_id": "48cadf26-975e-11e5-b9c2-c8e0eb18c1e9",
+      "type_id": "452935de-975e-11e5-ae1a-c8e0eb18c1e9",
+      "start": "2019-04-27T11:30:00",
+      "end": "2019-04-27T11:45:00",
+      "public_bookable": true,
+      "out_of_office": false
+    },
+    {
+      "id": "1ff06e3f-5786-452a-94ed-a76a7e83e141",
+      "calendar_id": "48cadf26-975e-11e5-b9c2-c8e0eb18c1e9",
+      "type_id": "4529821e-975e-11e5-bbaf-c8e0eb18c1e9",
+      "start": "2019-04-27T11:45:00",
+      "end": "2019-04-27T12:15:00",
+      "public_bookable": true,
+      "out_of_office": false
+    },
+    {
+      "id": "3faa0dcc-0473-4380-b64d-92df505a7287",
+      "calendar_id": "48cadf26-975e-11e5-b9c2-c8e0eb18c1e9",
+      "type_id": "4529821e-975e-11e5-bbaf-c8e0eb18c1e9",
+      "start": "2019-04-27T12:15:00",
+      "end": "2019-04-27T12:45:00",
+      "public_bookable": true,
+      "out_of_office": false
+    },
+    {
+      "id": "f4a24af6-4cf3-42c5-9314-1cf569d12bfe",
+      "calendar_id": "48cadf26-975e-11e5-b9c2-c8e0eb18c1e9",
+      "type_id": "4529821e-975e-11e5-bbaf-c8e0eb18c1e9",
+      "start": "2019-04-27T12:45:00",
+      "end": "2019-04-27T13:15:00",
+      "public_bookable": true,
+      "out_of_office": false
+    },
+    {
+      "id": "5ddae375-cb4f-4ba1-9884-2cf1861eb81c",
+      "calendar_id": "48cadf26-975e-11e5-b9c2-c8e0eb18c1e9",
+      "type_id": "4529821e-975e-11e5-bbaf-c8e0eb18c1e9",
+      "start": "2019-04-27T13:15:00",
+      "end": "2019-04-27T13:45:00",
+      "public_bookable": true,
+      "out_of_office": false
+    },
+    {
+      "id": "0f41b8f6-bd49-4565-ae7d-5ca5aa989a55",
+      "calendar_id": "48cadf26-975e-11e5-b9c2-c8e0eb18c1e9",
+      "type_id": "4529821e-975e-11e5-bbaf-c8e0eb18c1e9",
+      "start": "2019-04-27T13:45:00",
+      "end": "2019-04-27T14:15:00",
+      "public_bookable": true,
+      "out_of_office": false
+    },
+    {
+      "id": "b80e7b4b-1de9-4127-a30a-33f01e675211",
+      "calendar_id": "48cadf26-975e-11e5-b9c2-c8e0eb18c1e9",
+      "type_id": "4529821e-975e-11e5-bbaf-c8e0eb18c1e9",
+      "start": "2019-04-27T14:15:00",
+      "end": "2019-04-27T14:45:00",
+      "public_bookable": true,
+      "out_of_office": false
+    },
+    {
+      "id": "55ddc3b3-29ac-458a-a83b-bb1e90a154f6",
+      "calendar_id": "48cadf26-975e-11e5-b9c2-c8e0eb18c1e9",
+      "type_id": "4529821e-975e-11e5-bbaf-c8e0eb18c1e9",
+      "start": "2019-04-27T14:45:00",
+      "end": "2019-04-27T15:15:00",
+      "public_bookable": true,
+      "out_of_office": false
+    },
+    {
+      "id": "3641cc77-e6c2-49db-b614-b60fbbdb638c",
+      "calendar_id": "48cadf26-975e-11e5-b9c2-c8e0eb18c1e9",
+      "type_id": "4529821e-975e-11e5-bbaf-c8e0eb18c1e9",
+      "start": "2019-04-27T15:15:00",
+      "end": "2019-04-27T15:45:00",
+      "public_bookable": true,
+      "out_of_office": false
+    },
+    {
+      "id": "c61ac2ef-60cd-4013-9ca6-05d629cb72ff",
+      "calendar_id": "48cadf26-975e-11e5-b9c2-c8e0eb18c1e9",
+      "type_id": "4529821e-975e-11e5-bbaf-c8e0eb18c1e9",
+      "start": "2019-04-27T15:45:00",
+      "end": "2019-04-27T16:15:00",
+      "public_bookable": true,
+      "out_of_office": false
+    },
+    {
+      "id": "54b148e3-cdf4-4ccb-8a3f-6781569c58fa",
+      "calendar_id": "48cadf26-975e-11e5-b9c2-c8e0eb18c1e9",
+      "type_id": "4529821e-975e-11e5-bbaf-c8e0eb18c1e9",
+      "start": "2019-04-27T16:15:00",
+      "end": "2019-04-27T16:45:00",
+      "public_bookable": true,
+      "out_of_office": false
+    },
+    {
+      "id": "f4e53fc9-a4f3-437b-a264-37652aad3405",
+      "calendar_id": "48cadf26-975e-11e5-b9c2-c8e0eb18c1e9",
+      "type_id": "452935de-975e-11e5-ae1a-c8e0eb18c1e9",
+      "start": "2019-04-27T16:45:00",
+      "end": "2019-04-27T17:00:00",
+      "public_bookable": true,
+      "out_of_office": false
+    },
+    {
+      "id": "a55dca25-64d1-4f91-98fb-cd561052f24f",
+      "calendar_id": "48cadf26-975e-11e5-b9c2-c8e0eb18c1e9",
+      "type_id": "452935de-975e-11e5-ae1a-c8e0eb18c1e9",
+      "start": "2019-04-27T17:00:00",
+      "end": "2019-04-27T17:15:00",
+      "public_bookable": true,
+      "out_of_office": false
+    },
+    {
+      "id": "b484d7ab-1e5c-43b6-be18-3f92e23efa9b",
+      "calendar_id": "48cadf26-975e-11e5-b9c2-c8e0eb18c1e9",
+      "type_id": "452935de-975e-11e5-ae1a-c8e0eb18c1e9",
+      "start": "2019-04-27T17:15:00",
+      "end": "2019-04-27T17:30:00",
+      "public_bookable": true,
+      "out_of_office": false
+    },
+    {
+      "id": "849ec39b-5ee1-407a-a12d-88047783d2ef",
+      "calendar_id": "48cadf26-975e-11e5-b9c2-c8e0eb18c1e9",
+      "type_id": "452935de-975e-11e5-ae1a-c8e0eb18c1e9",
+      "start": "2019-04-27T17:30:00",
+      "end": "2019-04-27T17:45:00",
+      "public_bookable": true,
+      "out_of_office": false
+    },
+    {
+      "id": "e408efab-1d6d-42db-be6a-a154c0aacc1c",
+      "calendar_id": "48cadf26-975e-11e5-b9c2-c8e0eb18c1e9",
+      "type_id": "452935de-975e-11e5-ae1a-c8e0eb18c1e9",
+      "start": "2019-04-27T17:45:00",
+      "end": "2019-04-27T18:00:00",
+      "public_bookable": true,
+      "out_of_office": false
+    },
+    {
+      "id": "0e6c1e45-d1d6-4236-a1d2-caf1d733d404",
+      "calendar_id": "48cadf26-975e-11e5-b9c2-c8e0eb18c1e9",
+      "type_id": "452935de-975e-11e5-ae1a-c8e0eb18c1e9",
+      "start": "2019-04-27T18:00:00",
+      "end": "2019-04-27T18:15:00",
+      "public_bookable": true,
+      "out_of_office": false
+    },
+    {
+      "id": "4ef26dce-e5f2-4592-bff5-47e34d01e320",
+      "calendar_id": "48cadf26-975e-11e5-b9c2-c8e0eb18c1e9",
+      "type_id": "452935de-975e-11e5-ae1a-c8e0eb18c1e9",
+      "start": "2019-04-27T18:15:00",
+      "end": "2019-04-27T18:30:00",
+      "public_bookable": true,
+      "out_of_office": false
+    },
+    {
+      "id": "cc35d346-bf2b-412c-ba5f-2918832fc91b",
+      "calendar_id": "48cadf26-975e-11e5-b9c2-c8e0eb18c1e9",
+      "type_id": "452935de-975e-11e5-ae1a-c8e0eb18c1e9",
+      "start": "2019-04-27T18:30:00",
+      "end": "2019-04-27T18:45:00",
+      "public_bookable": true,
+      "out_of_office": false
+    },
+    {
+      "id": "fc0523f9-1993-45f9-be80-72d8622b6cac",
+      "calendar_id": "48cadf26-975e-11e5-b9c2-c8e0eb18c1e9",
+      "type_id": "452935de-975e-11e5-ae1a-c8e0eb18c1e9",
+      "start": "2019-04-27T18:45:00",
+      "end": "2019-04-27T19:00:00",
+      "public_bookable": true,
+      "out_of_office": false
+    },
+    {
+      "id": "9a6270d4-bd83-4856-878d-e9707722a6bf",
+      "calendar_id": "48cadf26-975e-11e5-b9c2-c8e0eb18c1e9",
+      "type_id": "452935de-975e-11e5-ae1a-c8e0eb18c1e9",
+      "start": "2019-04-27T19:00:00",
+      "end": "2019-04-27T19:15:00",
+      "public_bookable": true,
+      "out_of_office": false
+    },
+    {
+      "id": "9f6ce7ac-90c0-4708-bac3-c04eee977fea",
+      "calendar_id": "48cadf26-975e-11e5-b9c2-c8e0eb18c1e9",
+      "type_id": "452935de-975e-11e5-ae1a-c8e0eb18c1e9",
+      "start": "2019-04-27T19:15:00",
+      "end": "2019-04-27T19:30:00",
+      "public_bookable": true,
+      "out_of_office": false
+    },
+    {
+      "id": "823e7e9f-c907-40bc-b995-46981a8c3602",
+      "calendar_id": "48cadf26-975e-11e5-b9c2-c8e0eb18c1e9",
+      "type_id": "452935de-975e-11e5-ae1a-c8e0eb18c1e9",
+      "start": "2019-04-27T19:30:00",
+      "end": "2019-04-27T19:45:00",
+      "public_bookable": true,
+      "out_of_office": false
+    },
+    {
+      "id": "25bd0e1d-76be-44d0-9071-796d4a6ddd93",
+      "calendar_id": "48cadf26-975e-11e5-b9c2-c8e0eb18c1e9",
+      "type_id": "452935de-975e-11e5-ae1a-c8e0eb18c1e9",
+      "start": "2019-04-27T19:45:00",
+      "end": "2019-04-27T20:00:00",
+      "public_bookable": true,
+      "out_of_office": false
+    }
+  ],
+  "timeslottypes": [
+    {
+      "id": "452935de-975e-11e5-ae1a-c8e0eb18c1e9",
+      "name": "Vanlig",
+      "slot_size": 15,
+      "public_bookable": true,
+      "color": "#ccc",
+      "icon": "icon-home",
+      "clinic_id": "00000000-0000-4000-a002-000000000002",
+      "deleted": null,
+      "out_of_office": false,
+      "enabled": false
+    },
+    {
+      "id": "4529821e-975e-11e5-bbaf-c8e0eb18c1e9",
+      "name": "Lang vanlig",
+      "slot_size": 30,
+      "public_bookable": true,
+      "color": "#999",
+      "icon": "icon-home",
+      "clinic_id": "00000000-0000-4000-a002-000000000002",
+      "deleted": null,
+      "out_of_office": false,
+      "enabled": false
+    },
+    {
+      "id": "473787c2-975e-11e5-ae1a-c8e0eb18c1e9",
+      "name": "Vanlig",
+      "slot_size": 15,
+      "public_bookable": true,
+      "color": "#ccc",
+      "icon": "icon-home",
+      "clinic_id": "00000000-0000-4000-a002-000000000002",
+      "deleted": null,
+      "out_of_office": false,
+      "enabled": false
+    },
+    {
+      "id": "4737c5de-975e-11e5-bbaf-c8e0eb18c1e9",
+      "name": "Lang vanlig",
+      "slot_size": 30,
+      "public_bookable": true,
+      "color": "#999",
+      "icon": "icon-home",
+      "clinic_id": "00000000-0000-4000-a002-000000000002",
+      "deleted": null,
+      "out_of_office": false,
+      "enabled": false
+    }
+  ]
+}
