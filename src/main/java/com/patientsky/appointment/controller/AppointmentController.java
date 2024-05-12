@@ -58,7 +58,7 @@ public class AppointmentController {
 
 			// Parse the string into a LocalDateTime object
 			LocalDateTime start = LocalDateTime.parse("2019-04-23T12:15:00", formatter);
-			LocalDateTime end = LocalDateTime.parse("2019-04-23T12:30:00", formatter);
+			LocalDateTime end = LocalDateTime.parse("2019-04-23T12:45:00", formatter);
 
 			UUID timeSlotTypeId = null;
 
