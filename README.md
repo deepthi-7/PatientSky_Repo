@@ -1,6 +1,6 @@
 # Application Run Instructions 
 # Step 1 
-Import the project from https://github.com/deepthi-7/PatientSky_Repo to the suitable IDE like STS.
+Import the project from https://github.com/deepthi-7/PatientSky_Repo to the suitable IDE like STS. And add gradle nature for the project
 
 ![image](https://github.com/deepthi-7/PatientSky_Repo/assets/72294385/09bd7627-5bc2-4752-a7cc-ab699e5819d3)
 
