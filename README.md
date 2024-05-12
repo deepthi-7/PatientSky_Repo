@@ -9,7 +9,8 @@ Import the project from https://github.com/deepthi-7/PatientSky_Repo to the suit
 Provide input to the application by making changes at L53-L63
 https://github.com/deepthi-7/PatientSky_Repo/blob/main/src/main/java/com/patientsky/appointment/controller/AppointmentController.java#L53-L63
 
-![image](https://github.com/deepthi-7/PatientSky_Repo/assets/72294385/344a1b37-72dc-4515-adfd-e4c0e4c82a4e)
+![image](https://github.com/deepthi-7/PatientSky_Repo/assets/72294385/48b0729d-8a30-4738-89fd-19ef3e56fd77)
+
 
  
 
