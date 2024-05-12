@@ -40,7 +40,7 @@ public class AppointmentService {
 				availableTimeSlots.put(id, slots);
 
 			} else {
-				logger.info("Apology!!.. No Appointments currently present for the Calender ID : " + id);
+				logger.info("Apology!!.. No Time slots currently available for the Calender ID : " + id);
 			}
 		}
 
